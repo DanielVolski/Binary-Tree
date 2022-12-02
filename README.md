@@ -1,2 +1,2 @@
 # Binary-Tree
-Implementação de uma estrutura de árvore binária para estudos na disciplina de AEDII
+Implementação de uma estrutura de árvore binária na linguagem C. Essa implementação é exclusivamente para estudos da disciplina de AEDII
