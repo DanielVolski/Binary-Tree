@@ -24,4 +24,7 @@ int main()
     printf("%p\n", search_in_binary_tree(root, 2));
     printf("%p\n", search_in_binary_tree(root, 1));
     printf("%p\n", search_in_binary_tree(root, 3));
+
+    // Não deve retornar nada
+    printf("teste %p\n", search_in_binary_tree(root, 4));
 }

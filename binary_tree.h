@@ -61,6 +61,10 @@ tree_node* search_in_binary_tree(tree_node *root, int value)
             else
                 break;
         }
-        return aux_node;
+        // Garante que o valor encontrado está na árvore
+        if (aux_node == value) 
+            return aux_node;
+        else 
+            return NULL;
     }
 }
